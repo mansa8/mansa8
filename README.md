@@ -22,15 +22,6 @@ Here are some projects I’m working on:
 
 *(More coming soon…)*  
 
----
-
-## ☕ Support My Work  
-If you like my projects, you can support me:  
-
-**USDT (TRC-20):** `TAW81Mk7z7TTGRMMve91fgAyCGskXVvjy7` 
-
----
-
 ## 📫 Connect With Me  
 - GitHub: [github.com/mansa8](https://github.com/mansa8)  
 - Email: **ishaqauwal23@gmail.com**  
