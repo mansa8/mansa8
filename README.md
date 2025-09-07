@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Ishaq  
 
 🚀 Cybersecurity Enthusiast | Python Developer | Open Source Contributor  
